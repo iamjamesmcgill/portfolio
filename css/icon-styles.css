@@ -1,0 +1,110 @@
+@font-face {
+    font-family: 'icomoon';
+    src:    url('../fonts/icomoon.eot?itffvc');
+    src:    url('../fonts/icomoon.eot?itffvc#iefix') format('embedded-opentype'),
+        url('../fonts/icomoon.ttf?itffvc') format('truetype'),
+        url('../fonts/icomoon.woff?itffvc') format('woff'),
+        url('../fonts/icomoon.svg?itffvc#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    position: relative;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+.icon-vsco:before {
+    content: "\e900";
+}
+.icon-facebook:before {
+    content: "\e901";
+}
+.icon-flickr2:before {
+    content: "\e903";
+}
+.icon-linkedin2:before {
+    content: "\e904";
+}
+.icon-ukulele2:before {
+    content: "\e902";
+}
+.icon-ukulele2:after {
+    content: "Ukulele";
+	left: -25%;
+}
+.icon-axe:before {
+    content: "\e908";
+}
+.icon-axe:after {
+    content: "woodcarving";
+    left: -66%;
+}
+.icon-camping2:before {
+    content: "\e905";
+}
+.icon-camping2:after {
+    content: "Camping";
+	left: -15%;
+}
+.icon-camera2:before {
+    content: "\e906";
+}
+.icon-camera2:after {
+    content: "Photography";
+	left: -64%;
+}
+.icon-music2:before {
+    content: "\e907";
+}
+.icon-music2:after {
+    content: "Music";
+	left: 4%;
+}
+.icon-whiskey2:before {
+    content: "\e90c";
+}
+.icon-whiskey2:after {
+    content: "whiskey";
+	left: -37%;
+}
+.icon-running2:before {
+    content: "\e909";
+}
+.icon-running2:after {
+    content: "running";
+	left: -22%;
+}
+.icon-reading2:before {
+    content: "\e90a";
+}
+.icon-reading2:after {
+    content: "reading";
+	left: -17%;
+}
+.icon-instagram:before {
+    content: "\e90b";
+}
+.icon-facebook2:before {
+    content: "\ea91";
+}
+.icon-spotify:before {
+    content: "\ea94";
+}
+.icon-linkedin:before {
+    content: "\eac9";
+}
+
